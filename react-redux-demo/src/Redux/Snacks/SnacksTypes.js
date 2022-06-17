@@ -1,0 +1,1 @@
+export const BUY_SNACKS = 'BUY_SNACKS'; 
